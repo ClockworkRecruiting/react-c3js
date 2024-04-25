@@ -255,7 +255,7 @@ module.exports = camelizeStyleName;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 var isTextNode = require('./isTextNode');
@@ -510,7 +510,7 @@ module.exports = createNodesFromMarkup;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 function makeEmptyFunction(arg) {
@@ -951,7 +951,7 @@ module.exports = isTextNode;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  * @typechecks static-only
  */
 
@@ -1039,7 +1039,7 @@ module.exports = performanceNow;
  * of patent rights can be found in the PATENTS file in the same directory.
  *
  * @typechecks
- * 
+ *
  */
 
 /*eslint-disable no-self-compare */
@@ -2943,7 +2943,7 @@ module.exports = CSSPropertyOperations;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -4682,7 +4682,7 @@ module.exports = EventPluginHub;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -5633,7 +5633,7 @@ module.exports = HTMLDOMPropertyConfig;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -5833,7 +5833,7 @@ module.exports = LinkedValueUtils;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -6461,7 +6461,7 @@ module.exports = ReactComponentBrowserEnvironment;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -10438,7 +10438,7 @@ module.exports = ReactDOMUnknownPropertyHook;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -10952,7 +10952,7 @@ module.exports = {
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -11003,7 +11003,7 @@ module.exports = ReactEmptyComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -11268,7 +11268,7 @@ module.exports = ReactEventListener;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -11360,7 +11360,7 @@ module.exports = ReactHostComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -11601,7 +11601,7 @@ module.exports = ReactInstanceMap;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -11627,7 +11627,7 @@ module.exports = { debugTool: debugTool };
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -12708,7 +12708,7 @@ module.exports = ReactMultiChild;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -12750,7 +12750,7 @@ module.exports = ReactNodeTypes;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -12846,7 +12846,7 @@ module.exports = ReactOwner;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -12872,7 +12872,7 @@ module.exports = ReactPropTypeLocationNames;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -13239,7 +13239,7 @@ module.exports = ReactReconciler;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -13421,7 +13421,7 @@ module.exports = ReactServerRenderingTransaction;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -14560,7 +14560,7 @@ module.exports = SelectEventPlugin;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -15635,7 +15635,7 @@ module.exports = SyntheticWheelEvent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -15889,7 +15889,7 @@ module.exports = ViewportMetrics;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -15948,7 +15948,7 @@ module.exports = accumulateInto;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -16380,7 +16380,7 @@ module.exports = findDOMNode;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -16457,7 +16457,7 @@ module.exports = flattenChildren;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -16748,7 +16748,7 @@ module.exports = getHostComponentFromComposite;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -17188,7 +17188,7 @@ module.exports = isEventSupported;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -17265,7 +17265,7 @@ module.exports = quoteAttributeValueForBrowser;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 'use strict';
 
@@ -19216,7 +19216,7 @@ module.exports = ReactComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -19551,7 +19551,7 @@ module.exports = ReactComponentTreeHook;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -20520,7 +20520,7 @@ arguments[4][110][0].apply(exports,arguments)
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -20638,7 +20638,7 @@ arguments[4][143][0].apply(exports,arguments)
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -24234,7 +24234,7 @@ _reactDom2.default.render(_react2.default.createElement(
             axis_y_label: {},
             axis_y_tick_format: undefined,
             axis_y_tick_outer: true,
-            axis_y_tick_values: null,        
+            axis_y_tick_values: null,
             axis_y_tick_rotate: 0,
             axis_y_tick_count: undefined,
             axis_y_tick_time_value: undefined,
@@ -25740,7 +25740,7 @@ _reactDom2.default.render(_react2.default.createElement(
     c3_chart_internal_fn.getCurrentHeight = function () {
         var $$ = this, config = $$.config,
             h = config.size_height ? config.size_height : $$.getParentHeight();
-        return h > 0 ? h : 320 / ($$.hasType('gauge') && !config.gauge_fullCircle ? 2 : 1); 
+        return h > 0 ? h : 320 / ($$.hasType('gauge') && !config.gauge_fullCircle ? 2 : 1);
     };
     c3_chart_internal_fn.getCurrentPaddingTop = function () {
         var $$ = this,
@@ -25830,8 +25830,8 @@ _reactDom2.default.render(_react2.default.createElement(
         var $$ = this, config = $$.config, h = 30;
         if (axisId === 'x' && !config.axis_x_show) { return 8; }
         if (axisId === 'x' && config.axis_x_height) { return config.axis_x_height; }
-        if (axisId === 'y' && !config.axis_y_show) { 
-            return config.legend_show && !$$.isLegendRight && !$$.isLegendInset ? 10 : 1; 
+        if (axisId === 'y' && !config.axis_y_show) {
+            return config.legend_show && !$$.isLegendRight && !$$.isLegendInset ? 10 : 1;
         }
         if (axisId === 'y2' && !config.axis_y2_show) { return $$.rotated_padding_top; }
         // Calculate x axis height when tick rotated
@@ -32432,7 +32432,7 @@ _reactDom2.default.render(_react2.default.createElement(
           svg.remove();
         }
       }
-      if (d3_mouse_bug44083) point.x = e.pageX, point.y = e.pageY; else point.x = e.clientX, 
+      if (d3_mouse_bug44083) point.x = e.pageX, point.y = e.pageY; else point.x = e.clientX,
       point.y = e.clientY;
       point = point.matrixTransform(container.getScreenCTM().inverse());
       return [ point.x, point.y ];
@@ -32807,7 +32807,7 @@ _reactDom2.default.render(_react2.default.createElement(
     }
     function mousewheeled() {
       var dispatch = event.of(this, arguments);
-      if (mousewheelTimer) clearTimeout(mousewheelTimer); else d3_selection_interrupt.call(this), 
+      if (mousewheelTimer) clearTimeout(mousewheelTimer); else d3_selection_interrupt.call(this),
       translate0 = location(center0 = center || d3.mouse(this)), zoomstarted(dispatch);
       mousewheelTimer = setTimeout(function() {
         mousewheelTimer = null;
@@ -33176,7 +33176,7 @@ _reactDom2.default.render(_react2.default.createElement(
   d3.xhr = d3_xhrType(d3_identity);
   function d3_xhrType(response) {
     return function(url, mimeType, callback) {
-      if (arguments.length === 2 && typeof mimeType === "function") callback = mimeType, 
+      if (arguments.length === 2 && typeof mimeType === "function") callback = mimeType,
       mimeType = null;
       return d3_xhr(url, mimeType, response, callback);
     };
@@ -34017,7 +34017,7 @@ _reactDom2.default.render(_react2.default.createElement(
     return n ? (date.y = d3_time_expandYear(+n[0]), i + n[0].length) : -1;
   }
   function d3_time_parseZone(date, string, i) {
-    return /^[+-]\d{4}$/.test(string = string.slice(i, i + 5)) ? (date.Z = -string, 
+    return /^[+-]\d{4}$/.test(string = string.slice(i, i + 5)) ? (date.Z = -string,
     i + 5) : -1;
   }
   function d3_time_expandYear(d) {
@@ -34210,7 +34210,7 @@ _reactDom2.default.render(_react2.default.createElement(
     var λ00, φ00, λ0, cosφ0, sinφ0;
     d3_geo_area.point = function(λ, φ) {
       d3_geo_area.point = nextPoint;
-      λ0 = (λ00 = λ) * d3_radians, cosφ0 = Math.cos(φ = (φ00 = φ) * d3_radians / 2 + π / 4), 
+      λ0 = (λ00 = λ) * d3_radians, cosφ0 = Math.cos(φ = (φ00 = φ) * d3_radians / 2 + π / 4),
       sinφ0 = Math.sin(φ);
     };
     function nextPoint(λ, φ) {
@@ -36039,7 +36039,7 @@ _reactDom2.default.render(_react2.default.createElement(
       return _ ? center([ -_[1], _[0] ]) : (_ = center(), [ _[1], -_[0] ]);
     };
     projection.rotate = function(_) {
-      return _ ? rotate([ _[0], _[1], _.length > 2 ? _[2] + 90 : 90 ]) : (_ = rotate(), 
+      return _ ? rotate([ _[0], _[1], _.length > 2 ? _[2] + 90 : 90 ]) : (_ = rotate(),
       [ _[0], _[1], _[2] - 90 ]);
     };
     return rotate([ 0, 0, 90 ]);
@@ -36893,7 +36893,7 @@ _reactDom2.default.render(_react2.default.createElement(
     };
     quadtree.extent = function(_) {
       if (!arguments.length) return x1 == null ? null : [ [ x1, y1 ], [ x2, y2 ] ];
-      if (_ == null) x1 = y1 = x2 = y2 = null; else x1 = +_[0][0], y1 = +_[0][1], x2 = +_[1][0], 
+      if (_ == null) x1 = y1 = x2 = y2 = null; else x1 = +_[0][0], y1 = +_[0][1], x2 = +_[1][0],
       y2 = +_[1][1];
       return quadtree;
     };
@@ -38618,7 +38618,7 @@ _reactDom2.default.render(_react2.default.createElement(
         return d3_layout_treemapPad(node, x);
       }
       var type;
-      pad = (padding = x) == null ? d3_layout_treemapPadNull : (type = typeof x) === "function" ? padFunction : type === "number" ? (x = [ x, x, x, x ], 
+      pad = (padding = x) == null ? d3_layout_treemapPadNull : (type = typeof x) === "function" ? padFunction : type === "number" ? (x = [ x, x, x, x ],
       padConstant) : padConstant;
       return treemap;
     };
@@ -39021,7 +39021,7 @@ _reactDom2.default.render(_react2.default.createElement(
     };
     scale.rangePoints = function(x, padding) {
       if (arguments.length < 2) padding = 0;
-      var start = x[0], stop = x[1], step = domain.length < 2 ? (start = (start + stop) / 2, 
+      var start = x[0], stop = x[1], step = domain.length < 2 ? (start = (start + stop) / 2,
       0) : (stop - start) / (domain.length - 1 + padding);
       range = steps(start + step * padding / 2, step);
       rangeBand = 0;
@@ -39033,7 +39033,7 @@ _reactDom2.default.render(_react2.default.createElement(
     };
     scale.rangeRoundPoints = function(x, padding) {
       if (arguments.length < 2) padding = 0;
-      var start = x[0], stop = x[1], step = domain.length < 2 ? (start = stop = Math.round((start + stop) / 2), 
+      var start = x[0], stop = x[1], step = domain.length < 2 ? (start = stop = Math.round((start + stop) / 2),
       0) : (stop - start) / (domain.length - 1 + padding) | 0;
       range = steps(start + Math.round(step * padding / 2 + (stop - start - (domain.length - 1 + padding) * step) / 2), step);
       rangeBand = 0;
@@ -39461,7 +39461,7 @@ _reactDom2.default.render(_react2.default.createElement(
     return points.length < 4 ? d3_svg_lineLinear(points) : points[1] + d3_svg_lineHermite(points.slice(1, -1), d3_svg_lineCardinalTangents(points, tension));
   }
   function d3_svg_lineCardinalClosed(points, tension) {
-    return points.length < 3 ? d3_svg_lineLinearClosed(points) : points[0] + d3_svg_lineHermite((points.push(points[0]), 
+    return points.length < 3 ? d3_svg_lineLinearClosed(points) : points[0] + d3_svg_lineHermite((points.push(points[0]),
     points), d3_svg_lineCardinalTangents([ points[points.length - 2] ].concat(points, [ points[1] ]), tension));
   }
   function d3_svg_lineCardinal(points, tension) {
@@ -40234,7 +40234,7 @@ _reactDom2.default.render(_react2.default.createElement(
         var g = d3.select(this);
         var scale0 = this.__chart__ || scale, scale1 = this.__chart__ = scale.copy();
         var ticks = tickValues == null ? scale1.ticks ? scale1.ticks.apply(scale1, tickArguments_) : scale1.domain() : tickValues, tickFormat = tickFormat_ == null ? scale1.tickFormat ? scale1.tickFormat.apply(scale1, tickArguments_) : d3_identity : tickFormat_, tick = g.selectAll(".tick").data(ticks, scale1), tickEnter = tick.enter().insert("g", ".domain").attr("class", "tick").style("opacity", ε), tickExit = d3.transition(tick.exit()).style("opacity", ε).remove(), tickUpdate = d3.transition(tick.order()).style("opacity", 1), tickSpacing = Math.max(innerTickSize, 0) + tickPadding, tickTransform;
-        var range = d3_scaleRange(scale1), path = g.selectAll(".domain").data([ 0 ]), pathUpdate = (path.enter().append("path").attr("class", "domain"), 
+        var range = d3_scaleRange(scale1), path = g.selectAll(".domain").data([ 0 ]), pathUpdate = (path.enter().append("path").attr("class", "domain"),
         d3.transition(path));
         tickEnter.append("line");
         tickEnter.append("text");

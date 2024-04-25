@@ -31,23 +31,25 @@
   },
   "homepage": "https://github.com/bcbcarl/react-c3js#readme",
   "peerDependencies": {
-    "prop-types": "^15.5.0",
-    "react": "^15.5.0 || ^16.0.0",
-    "react-dom": "^15.5.0 || ^16.0.0"
+    "prop-types": "^15.8.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "dependencies": {
-    "c3": "^0.4.11"
+    "c3": "^0.4.11",
+    "d3": "^7.9.0"
   },
   "devDependencies": {
     "@types/c3": "^0.4.41",
-    "@types/react": "^15.0.21",
+    "@types/react": "^15.7.30",
     "@types/react-dom": "^0.14.23",
-    "babel-cli": "^6.24.1",
+    "@babel/cli": "7.22.5",
+    "@babel/core": "7.22.5",
     "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
-    "prop-types": "^15.5.4",
-    "react": "^15.5.3",
-    "react-dom": "^15.5.3"
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }

@@ -90,7 +90,7 @@ var C3Chart = function (_React$Component) {
       this.updateChart(this.props);
     }
   }, {
-    key: 'componentWillReceiveProps',
+    key: 'UNSAFE_componentWillReceiveProps',
     value: function componentWillReceiveProps(newProps) {
       this.updateChart(newProps);
       if (newProps.onPropsChanged) {
@@ -133,7 +133,7 @@ var C3Chart = function (_React$Component) {
     key: 'updateChart',
     value: function updateChart(config) {
       if (!this.chart) {
-        this.chart = this.generateChart((0, _reactDom.findDOMNode)(this), config);
+        this.chart = this.generateChart(this.chartContainer, config);
       }
 
       if (config.unloadBeforeLoad) {
@@ -142,14 +142,20 @@ var C3Chart = function (_React$Component) {
 
       this.loadNewData(config.data);
     }
-  }, {
-    key: 'render',
-    value: function render() {
-      var className = this.props.className ? ' ' + this.props.className : '';
-      var style = this.props.style ? this.props.style : {};
-      return _react2.default.createElement('div', { className: className, style: style });
-    }
-  }], [{
+    }, {
+      key: 'render',
+      value: function render() {
+        var _this2 = this;
+
+        var className = this.props.className ? ' ' + this.props.className : '';
+        var style = this.props.style ? this.props.style : {};
+        return _react2.default.createElement('div', {
+          ref: function ref(container) {
+            return _this2.chartContainer = container;
+          }, className: className, style: style
+        });
+      }
+    }], [{
     key: 'displayName',
     get: function get() {
       return 'C3Chart';
