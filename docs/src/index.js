@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 
 import { BarChart, DynamicChart } from './components';
 
+
 const chartData = {
   line: {
     initData: {
